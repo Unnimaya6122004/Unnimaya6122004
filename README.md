@@ -1,17 +1,17 @@
-# Hello, I'm [UNNIMAYA K] 👋
+# Hello, I'm UNNIMAYA K 👋
 
-Welcome to my GitHub profile! I'm passionate about [my profession,my ambissons,study,coding,games etc..], and I love to build [designs,apps,websites,etc]. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something interesting.
+Welcome to my GitHub profile! I'm passionate about my profession,my ambissons,study,coding,games etc.., and I love to build designs,apps,websites,etc. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something interesting.
 
 ## 🔧 Technologies & Tools
 
 Here are some technologies and tools that I'm familiar with:
 
-- Programming Languages: [c programming,python,HTML,javascript,CSS,java]
-- Other: [figma,canva,google sites]
+- Programming Languages: c programming,python,HTML,javascript,CSS,java
+- Other: figma,canva,google sites
 
 ## 🌱 Current Focus
 
-I'm currently focused on [my learning ]. I'm excited to deepen my knowledge in [app development,AR/VR,web development,programming,databases].
+I'm currently focused on my learning. I'm excited to deepen my knowledge in app development,AR/VR,web development,programming,databases.
 
 
 
