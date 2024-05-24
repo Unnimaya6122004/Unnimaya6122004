@@ -4,7 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnnimayaK423265?style=social)](https://twitter.com/UnnimayaK423265)
 
-![coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdk5V18aX-fBmN5vLv5_EjjDx7zz7kLzHltve0RH6MHZzdDvRq6PmE5vixnTHOuSPC10&usqp=CAU)
 ![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)
 ## 🧑‍💻 About Me
 
