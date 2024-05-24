@@ -4,7 +4,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnnimayaK423265?style=social)](https://twitter.com/UnnimayaK423265)
 
-![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)## 🧑‍💻 About Me
+![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)#
+
+# 🧑‍💻 About Me
 
 Welcome to my GitHub profile! I'm passionate about my profession, ambitions, studying, coding, gaming, and much more. I thrive on building creative and innovative designs, apps, websites, and other projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something exciting.
 
