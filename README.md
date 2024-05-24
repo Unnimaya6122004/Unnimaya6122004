@@ -4,12 +4,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnnimayaK423265?style=social)](https://twitter.com/UnnimayaK423265)
 
-![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)
-## 🧑‍💻 About Me
+![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)## 🧑‍💻 About Me
 
-Welcome to my GitHub profile! I'm passionate about my profession,my ambissons,study,coding,games etc.., and I love to build designs,apps,websites,etc. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something interesting.
+Welcome to my GitHub profile! I'm passionate about my profession, ambitions, studying, coding, gaming, and much more. I thrive on building creative and innovative designs, apps, websites, and other projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something exciting.
+
+### 🔭 Current Focus
 - 🌱 I’m currently learning **Machine Learning**
-- 📫 How to reach me: [mail@shido12001@gmail.com](mailto:shido12001@gmail.com)
+
+### 📫 Get in Touch
+- Email: [shido12001@gmail.com](mailto:shido12001@gmail.com)
+
+### 🌟 Interests
+- **Design & Development**: Crafting intuitive and aesthetically pleasing user experiences.
+- **Apps & Websites**: Building functional and responsive applications and sites.
+- **Gaming**: Exploring the latest in game development and playing games for inspiration.
+- **Collaboration**: Always open to teaming up on innovative projects and learning from others.
 
 ## 🚀 Skills
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
