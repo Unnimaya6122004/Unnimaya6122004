@@ -9,10 +9,6 @@
 # 🧑‍💻 About Me
 
 Welcome to my GitHub profile! I'm passionate about my profession, ambitions, studying, coding, gaming, and much more. I thrive on building creative and innovative designs, apps, websites, and other projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something exciting.
-
-### 🔭 Current Focus
-- 🌱 I’m currently learning **Machine Learning**
-
 ### 📫 Get in Touch
 - Email: [shido12001@gmail.com](mailto:shido12001@gmail.com)
 
@@ -30,15 +26,13 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
+## Hacktoberfest'23
+[![An image of @unnimaya6122004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unnimaya6122004)](https://holopin.io/@unnimaya6122004)
 ## 📈 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Unnimaya6122004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unnimaya6122004&layout=compact&theme=radical)
-
 ## 🏆 GitHub Trophies
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
-
 ## GSSoC'24 Badges
 <div style="background-color: #f0f0f0; padding: 10px; display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Badge 1" style="width: 80px; margin: 10px;">
