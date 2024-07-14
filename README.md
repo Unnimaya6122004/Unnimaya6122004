@@ -1,10 +1,10 @@
-# Hi there, I'm <span style="display: inline-block; animation: animate 3s linear infinite;">UNNIMAYA K</span> 👋
+![image](https://github.com/user-attachments/assets/aea81c69-a973-4765-bdd2-0b1c7ab8692f)# Hi there, I'm <span style="display: inline-block; animation: animate 3s linear infinite;">UNNIMAYA K</span> 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unnimaya6122004&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnnimayaK423265?style=social)](https://twitter.com/UnnimayaK423265)
 
-![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)#
+![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)
 
 # 🧑‍💻 About Me
 
@@ -39,9 +39,22 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
 
-1. [app-development](https://github.com/Unnimaya6122004/app-development) - made for GTA Hackathon
-2. [PYTHON_08](https://github.com/Unnimaya6122004/PYTHON__08) - made for hacktoberfest contribution
-3. [Failure Stories](https://github.com/Unnimaya6122004/Failurestories) - 1st hacktoberfest contribution
+## Hacktoberfest'23 Badges
+![Hacktoberfest Badge](blob:https://web.whatsapp.com/29dc1a06-dbe4-46a6-bae7-63834e7053a2)
+![Hacktoberfest Badge](blob:https://web.whatsapp.com/04f3a82f-d05a-4b63-8854-e53b7235fd52)
+![Hacktoberfest Badge](blob:https://web.whatsapp.com/a3a9b1c9-fef4-467a-9a9b-82d499b6ad1d)
+![Hacktoberfest Badge](blob:https://web.whatsapp.com/23529543-8345-4163-8d0c-829bd51ef9b5)
+![Hacktoberfest Badge](blob:https://web.whatsapp.com/4538863a-82ef-4503-8cae-8829261c7da2)
+![Hacktoberfest Badge](blob:https://web.whatsapp.com/bcbda7eb-8ec3-4c01-9f9a-146e824fbb68)
+
+
+## GSSoC'24 Badges
+![GSSoC Badge](https://gssoc.girlscript.tech/badges/1.png?imwidth=96)
+![GSSoC Badge](https://gssoc.girlscript.tech/badges/2.png?imwidth=96)
+![GSSoC Badge](https://gssoc.girlscript.tech/badges/3.png?imwidth=96)
+![GSSoC Badge](https://gssoc.girlscript.tech/badges/4.png?imwidth=96)
+![GSSoC Badge](https://gssoc.girlscript.tech/badges/5.png?imwidth=96)
+
 
 ## 📫 Connect with Me
 
@@ -49,13 +62,7 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UnnimayaK423265)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umk_06122004)
 
-## 📝 Acknowledgements
 
-- [Font Awesome](https://fontawesome.com)
-- [Shields.io](https://shields.io/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [GIPHY](https://giphy.com/)
 
 Feel free to connect with me! I'm always open to interesting conversations and collaboration.
 
