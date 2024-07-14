@@ -1,4 +1,4 @@
-# Hi there, I'm Unnimaya K! 👋
+# Hi, I'm Unnimaya K! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unnimaya6122004&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
