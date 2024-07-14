@@ -1,10 +1,10 @@
-# Unnimaya K
+# Hi there, I'm Unnimaya K! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unnimaya6122004&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnnimayaK423265?style=social)](https://twitter.com/UnnimayaK423265)
 
-![cod](https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg)
+<img src="https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg" alt="cod" style="width:100%;">
 
 # 🧑‍💻 About Me
 
@@ -39,20 +39,14 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
 
-## Hacktoberfest'23 Badges
-![Hacktoberfest Badge](https://web.whatsapp.com/453c1297-ba0e-4748-940c-82635e8289b6)
-![Hacktoberfest Badge](https://example.com/path-to-your-hacktoberfest-badge2.png)
-![Hacktoberfest Badge](https://example.com/path-to-your-hacktoberfest-badge3.png)
-![Hacktoberfest Badge](https://example.com/path-to-your-hacktoberfest-badge4.png)
-![Hacktoberfest Badge](https://example.com/path-to-your-hacktoberfest-badge5.png)
-![Hacktoberfest Badge](https://example.com/path-to-your-hacktoberfest-badge6.png)
-
 ## GSSoC'24 Badges
-![GSSoC Badge](https://gssoc.girlscript.tech/badges/1.png?imwidth=96)
-![GSSoC Badge](https://gssoc.girlscript.tech/badges/2.png?imwidth=96)
-![GSSoC Badge](https://gssoc.girlscript.tech/badges/3.png?imwidth=96)
-![GSSoC Badge](https://gssoc.girlscript.tech/badges/4.png?imwidth=96)
-![GSSoC Badge](https://gssoc.girlscript.tech/badges/5.png?imwidth=96)
+<div style="background-color: #f0f0f0; padding: 10px; display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Badge 1" style="width: 80px; margin: 10px;">
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="GSSoC Badge 2" style="width: 80px; margin: 10px;">
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" alt="GSSoC Badge 3" style="width: 80px; margin: 10px;">
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" alt="GSSoC Badge 4" style="width: 80px; margin: 10px;">
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="GSSoC Badge 5" style="width: 80px; margin: 10px;">
+</div>
 
 ## 📫 Connect with Me
 
@@ -63,4 +57,3 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 Feel free to connect with me! I'm always open to interesting conversations and collaboration.
 
 Thanks for visiting! ✨
-
