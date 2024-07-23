@@ -40,6 +40,8 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" alt="GSSoC Badge 3" style="width: 80px; margin: 10px;">
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" alt="GSSoC Badge 4" style="width: 80px; margin: 10px;">
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="GSSoC Badge 5" style="width: 80px; margin: 10px;">
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="GSSoC Badge 5" style="width: 80px; margin: 10px;">
+
 </div>
 
 ## 📫 Connect with Me
