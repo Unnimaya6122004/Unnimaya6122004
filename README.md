@@ -33,15 +33,17 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unnimaya6122004&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
-## GSSoC'24 Badges
-<div style="background-color: #f0f0f0; padding: 10px; display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Badge 1" style="width: 80px; margin: 10px;">
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="GSSoC Badge 2" style="width: 80px; margin: 10px;">
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" alt="GSSoC Badge 3" style="width: 80px; margin: 10px;">
-  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" alt="GSSoC Badge 4" style="width: 80px; margin: 10px;">
-  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="GSSoC Badge 5" style="width: 80px; margin: 10px;">
-  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" alt="GSSoC Badge 6" style="width: 80px; margin: 10px;">
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+</a>
 </div>
 
 ## 📫 Connect with Me
