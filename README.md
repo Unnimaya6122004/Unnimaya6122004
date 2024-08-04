@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnnimayaK423265?style=social)](https://twitter.com/UnnimayaK423265)
 
-<img src="https://img.freepik.com/premium-photo/program-code-create-laptop-programmer-workplace-generative-ai_887552-7715.jpg" alt="cod" style="width:100%;">
+<img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b95263zj5oa505mwwji5e6lzazjgtkyqmin0dwe54weu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="cod" style="width:100%;">
 
 # 🧑‍💻 About Me
 
