@@ -1,4 +1,6 @@
-# Hi, I'm Unnimaya K! 👋
+<center>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20I'm%20Unnimaya"> 
+</center> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unnimaya6122004&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
