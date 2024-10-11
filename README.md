@@ -37,6 +37,10 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ## Hacktoberfest'23
 [![An image of @unnimaya6122004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unnimaya6122004)](https://holopin.io/@unnimaya6122004)
 
+## Hacktoberfest'24
+[![An image of @unnimaya6122004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unnimaya6122004)](https://holopin.io/@unnimaya6122004)
+
+
 ---
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Unnimaya6122004&show_icons=true&theme=radical)
