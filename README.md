@@ -42,11 +42,20 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Unnimaya6122004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unnimaya6122004&layout=compact&theme=radical)
 
----
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
 
----
+## 🔥 Current Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unnimaya6122004&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Unnimaya6122004&bg_color=1a1b27&color=ffffff&line=f85d7f&point=fdfdfd&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnimaya-k-b2190926b)
