@@ -47,11 +47,6 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
 
 ---
-## Badges 🪶
- style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-</a>
-
----
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnimaya-k-b2190926b)
