@@ -49,11 +49,11 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unnimaya6122004&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
-
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Unnimaya6122004&bg_color=1a1b27&color=ffffff&line=f85d7f&point=fdfdfd&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Unnimaya6122004&bg_color=1a1b27&color=ffffff&line=f85d7f&point=fdfdfd&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
+
 
 
 ## 📫 Connect with Me
