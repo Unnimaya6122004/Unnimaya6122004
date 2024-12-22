@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
 
 <center>
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20I'm%20Unnimaya"> 
+<img src="https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=40&width=900&height=80&lines=Hi%20there👋,%20I'm%20Unnimaya"> 
 </center> 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Unnimaya6122004&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Unnimaya6122004)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unnimaya6122004&label=Profile%20views&color=0e75b6&style=flat)
@@ -14,9 +13,14 @@
 <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b95263zj5oa505mwwji5e6lzazjgtkyqmin0dwe54weu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="cod" style="width:100%;">
 
 ---
-# 🧑‍💻 About Me
-
+<h1> 
+  About Me
+  <a href="#--about-me--">
+    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+  </a>
+</h1>
 Welcome to my GitHub profile! I'm passionate about my profession, ambitions, studying, coding, gaming, and much more. I thrive on building creative and innovative designs, apps, websites, and other projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something exciting.
+
 - 📫 How to reach me :
 
  <div align="center"> 
@@ -48,10 +52,6 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unnimaya6122004&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unnimaya6122004&theme=xcode&hide_border=true" />
-  </div>
-  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
   <a href="https://github.com/Unnimaya6122004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unnimaya6122004&theme=tokyonight"/>
 
@@ -63,11 +63,11 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">    Languages and Tools:</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -79,10 +79,11 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 </div>
 <br><br>
 
@@ -95,4 +96,4 @@ Feel free to connect with me! I'm always open to interesting conversations and c
 <h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Thanks for visiting! ✨</h2>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
