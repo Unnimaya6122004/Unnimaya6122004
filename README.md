@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+
+
 <center>
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20I'm%20Unnimaya"> 
 </center> 
@@ -12,8 +15,18 @@
 # 🧑‍💻 About Me
 
 Welcome to my GitHub profile! I'm passionate about my profession, ambitions, studying, coding, gaming, and much more. I thrive on building creative and innovative designs, apps, websites, and other projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something exciting.
-### 📫 Get in Touch
-- Email: [shido12001@gmail.com](mailto:shido12001@gmail.com)
+- 📫 How to reach me :
+
+ <div align="center"> 
+   <a href="mailto:unnimayak612@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  &nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/unnimaya-k-b2190926b" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo"  /></a>
+  &nbsp;&nbsp;
+    <a href="https://www.instagram.com/umk_06122004/profilecard/?igsh=ZW0yeDVxaDhjMTZr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="instagram logo"  /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Umk612" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" alt="telegram logo"  /></a>
+ 
+</div>
 
 ---
 ### 🌟 Interests
@@ -21,17 +34,6 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 - **Apps & Websites**: Building functional and responsive applications and sites.
 - **Gaming**: Exploring the latest in game development and playing games for inspiration.
 - **Collaboration**: Always open to teaming up on innovative projects and learning from others.
-
----
-
-## 🚀 Skills
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
-![C](https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
 ---
 
 ## Hacktoberfest'23'24
@@ -49,10 +51,41 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
   </div>
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
+  <a href="https://github.com/Unnimaya6122004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unnimaya6122004&theme=tokyonight"/>
+
+
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
 
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">    Languages and Tools:</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+</div>
+<br><br>
+
+![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
