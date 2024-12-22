@@ -4,6 +4,8 @@
 <center>
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&width=900&height=80&lines=Hi%20there👋,%20I'm%20Unnimaya"> 
 </center> 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Unnimaya6122004&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Unnimaya6122004)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unnimaya6122004&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Unnimaya6122004?label=Follow&style=social)](https://github.com/Unnimaya6122004/?tab=follow)
@@ -57,7 +59,6 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
 
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">    Languages and Tools:</h2>
@@ -88,16 +89,10 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unnimaya-k-b2190926b)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UnnimayaK423265)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umk_06122004)
-
 ---
 
 Feel free to connect with me! I'm always open to interesting conversations and collaboration.
 <h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Thanks for visiting! ✨</h2>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
