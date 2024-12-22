@@ -44,6 +44,10 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unnimaya6122004&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unnimaya6122004&theme=xcode&hide_border=true" />
+  </div>
+  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=onedark)
