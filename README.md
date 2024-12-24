@@ -46,12 +46,10 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 [![An image of @unnimaya6122004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unnimaya6122004)](https://holopin.io/@unnimaya6122004)
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Status
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Unnimaya6122004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unnimaya6122004&layout=compact&theme=radical)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unnimaya6122004&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+
 
   <a href="https://github.com/Unnimaya6122004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unnimaya6122004&theme=tokyonight"/>
 
