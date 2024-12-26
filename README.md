@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 
 
   <a href="https://github.com/Unnimaya6122004"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unnimaya6122004&theme=tokyonight"/>
-
+  <a href="https://github.com/Unnimaya6122004/Unnimaya6122004"><img alt="Unnimaya6122004's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Unnimaya6122004&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -93,6 +93,9 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 
 Feel free to connect with me! I'm always open to interesting conversations and collaboration.
 <h2 align = "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Thanks for visiting! ✨</h2>
-
----
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Unnimaya6122004}/count.svg" /></p> 
+</div>
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
