@@ -56,9 +56,8 @@ Welcome to my GitHub profile! I'm passionate about my profession, ambitions, stu
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Unnimaya6122004&theme=juicyfresh" />
 </p>
-
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">    Languages and Tools:</h2>
 <div align="left">
